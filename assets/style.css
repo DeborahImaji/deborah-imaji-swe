@@ -133,6 +133,10 @@ section {
   margin-bottom: 25px;
 }
 
+.home-link svg {
+    width: 1.75rem;
+}
+
 .btn {
   background: var(--main-color);
   color: var(--text-color);
